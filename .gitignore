@@ -1,0 +1,11 @@
+build/
+dist/
+__pycache__/
+*.spec
+*.toc
+*.pyc
+*.pyo
+*.zip
+*.pkg
+*.html
+*.txt
