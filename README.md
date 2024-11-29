@@ -43,7 +43,7 @@ Si vous souhaitez contribuer à ce projet, vous pouvez forker le dépôt, apport
 Ce projet est sous licence MIT - le fichier `LICENSE` a été ajouté au projet pour plus de détails.
 
 ## Auteur
-Ce projet a été développé par [ton nom ici]. C'est un projet amusant pour s'entraîner à la programmation avec Python et Pygame.
+Ce projet a été développé par [Boitelle Clemence]. C'est un projet amusant pour s'entraîner à la programmation avec Python et Pygame.
 
 ## Télécharger l'Exécutable
 Pour télécharger la version exécutable de ce jeu, allez à la section [Releases](https://github.com/clemence95/Mes-Projets/releases).
