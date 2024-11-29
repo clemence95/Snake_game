@@ -15,7 +15,7 @@ Ce jeu est une version modernisée du jeu classique, avec des fonctionnalités i
 
 ## Comment Jouer
 1. **Télécharger l'Exécutable** :
-   - Allez à la section [Releases](https://github.com/clemence95/Mes-Projets/releases) pour télécharger la version la plus récente.
+   - Allez à la section [Releases](https://github.com/clemence95/Snake_game/releases/tag/v1.0) pour télécharger la version la plus récente.
    - Cliquez sur la dernière version, puis téléchargez le fichier `.zip`.
    - **Extrayez le fichier** `.zip` pour obtenir le fichier `snake_game.exe`.
    - Double-cliquez sur `snake_game.exe` pour lancer le jeu.
