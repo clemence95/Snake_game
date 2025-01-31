@@ -45,17 +45,3 @@ Ce projet est sous licence MIT - le fichier `LICENSE` a été ajouté au projet 
 ## Auteur
 Ce projet a été développé par [Boitelle Clemence]. C'est un projet amusant pour s'entraîner à la programmation avec Python et Pygame.
 
-## Télécharger l'Exécutable
-Pour télécharger la version exécutable de ce jeu, allez à la section [Releases](https://github.com/clemence95/Snake_game/releases/tag/v1.0s).
-
-- Cliquez sur la dernière version.
-- Téléchargez le fichier `.zip`.
-- **Extrayez le fichier** `.zip` pour obtenir le fichier `snake_game.exe`.
-- Exécutez le fichier téléchargé sur votre machine pour jouer au jeu.
-
-## Installation (pour les développeurs)
-Si vous voulez lancer le jeu à partir du code source :
-- **Python 3.x** est nécessaire.
-- Installez la bibliothèque Pygame avec la commande :
-  ```sh
-  pip install pygame
